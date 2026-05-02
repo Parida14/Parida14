@@ -28,8 +28,9 @@ Staff+ data platform and infrastructure work: teams building systems where relia
 
 ## Selected Work
 
-- `wallet-health-scoring` - on-chain wallet behavior analysis focused on trust, activity, and risk signals
+- `wallet-health-score` - on-chain wallet behavior analysis focused on trust, activity, and risk signals
 - `personal-ai-stack` - repo-based operating system for skills, prompts, agents, and automation
+- `flight-alerts` - basic flight email alerting system using GitHub Actions CI/CD
 
 ## Principles
 
