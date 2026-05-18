@@ -1,6 +1,6 @@
 # Lagnajit Parida
 
-[Website](https://lagnajitparida.vercel.app/) | [Blog](https://lagnajitparida.vercel.app/blog) | [LinkedIn](https://linkedin.com/in/lparida/)
+[LinkedIn](https://linkedin.com/in/lparida/)
 
 Data Engineer with a platform and architecture orientation.
 Previously Tesla, IBM, Restoration Hardware. Currently Rivian.
