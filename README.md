@@ -15,7 +15,6 @@ I build data systems with clear contracts, reliable operations, and the governan
 
 ## Selected Projects
 
-- [personal-website](https://github.com/Parida14/personal-website) - portfolio site built with Next.js and TypeScript
 - [wallet-health-score](https://github.com/Parida14/wallet-health-score) - on-chain wallet behavior analysis focused on trust, activity, and risk signals
 - [flight-alerts](https://github.com/Parida14/flight-alerts) - scheduled flight-price alerting with Python and GitHub Actions
 - [wallet-indexer](https://github.com/Parida14/wallet-indexer) - early-stage wallet indexing service and API workspace
